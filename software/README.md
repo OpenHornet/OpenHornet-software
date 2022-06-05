@@ -56,3 +56,9 @@ measures that legally restrict others from doing anything the license permits.
    
 More Information about the license can be found under:
 [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+
+<span class="next_section_button">
+
+Read Next: [Software Manual](docs/SoftwareManual.md)
+</span>
